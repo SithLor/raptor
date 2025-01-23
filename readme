@@ -1,0 +1,1 @@
+objdump -d -j .text -M intel main > main.asm
