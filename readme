@@ -1,1 +1,3 @@
 objdump -d -j .text -M intel main > main.asm
+
+(gdb) set disassembly-flavor intel
