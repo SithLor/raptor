@@ -1,1 +1,0 @@
-objdump -d -x -M intel ./GameAnalytics.dll > disassembly_output.txt

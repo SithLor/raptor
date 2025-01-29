@@ -1,2 +1,0 @@
-https://learn.microsoft.com/en-us/sysinternals/resources/inside-native-applications
-http://undocumented.ntinternals.net/

@@ -1,3 +1,21 @@
-objdump -d -j .text -M intel main > main.asm
+https://www.ni.com/docs/en-US/bundle/roborio-20-specs/page/specs.html?srsltid=AfmBOoorv3d5_zZK_mgkdv-lfTQz6CG-pPB7vJHPnlLwP7NaZs0cE3cH
+
 
 (gdb) set disassembly-flavor intel
+
+
+Xilinx Z-7020 All Programmable SoC dual-core ARM Cortex-A9
+
+2 cores	
+866 MHz
+
+ram
+    size:512mb
+    freq:533 MHz
+
+    https://github.com/novnc/noVNC
+
+    https://docs.wpilib.org/en/stable/
+
+
+https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2025-game-tools/25.0/offline/ni-frc-2025-game-tools_25.0.0_offline.iso
