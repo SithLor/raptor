@@ -32,4 +32,26 @@ gaming window 11
 linux vm
   cpu:4
  ram:6gig
- gpu:igpu 
+ gpu:igpu
+
+
+
+.rock 
+.basket 
+.bucket
+ 
+
+
+project name 
+  backhoe
+    
+
+
+[
+  script: {
+    platform:{
+      linux:
+
+    }
+  }
+]
