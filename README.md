@@ -8,3 +8,6 @@ to install novnc
 
 learning c 
 https://www.w3schools.com/c/c_compiler.php
+
+wrs
+
