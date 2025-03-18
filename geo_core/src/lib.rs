@@ -1,4 +1,6 @@
 //round f64 to certain decimal places eg round_to(2.345, 2) = 2.35
+mod appscript;
+
 macro_rules! round_to {
     ($num:expr, $decimals:expr) => {
         {
