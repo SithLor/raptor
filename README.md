@@ -1,57 +1,12 @@
-# raptor
-a collection of app, lib for low level access and what app do 
+git clone https://github.com/tpn/winsdk-10.git
 
 
-to install novnc
+https://github.com/immunant/c2rust
 
+install rust from the website
 
-
-learning c 
-https://www.w3schools.com/c/c_compiler.php
-
-wrs
-
-
-
-
-
-https://looking-glass.io/docs/B7/faq/
-
-i have 12 core on my CPU,
-64 gig ram 
-I have igpu,amdgpu,nvida GPU
-i need small vm for chrome os small amount  eg 1-3 core , gaming 2vm window that has the  amdgpu, than 8gig ram vm with the 
-chrome os vm 
-  cpu: 2
-  ram:4 gig 
-  gpu:igpu
-gaming window 11
- cpu:6
- ram:32gig 
- gpu:amdgpu
-linux vm
-  cpu:4
- ram:6gig
- gpu:igpu
-
-
-
-.rock 
-.basket 
-.bucket
- 
-
-
-project name 
-  backhoe
-    
-
-
-[
-  script: {
-    platform:{
-      linux:
-
-    }
-  }
-]
+  sudo apt update
+  sudo apt upgrade  
+  sudo apt install build-essential llvm clang libclang-dev cmake libssl-dev pkg-config python3 git
+  cargo install c2rust
+c2rust transpile winsdk10/Include/10.0.16299.0/*/* --translate-const-macros --reduce-type-annotations --translate-fn-macros -o ./r
